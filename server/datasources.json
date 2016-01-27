@@ -11,5 +11,16 @@
     "password": "L00pBack",
     "name": "accountDS",
     "connector": "mongodb"
-  }
+  },
+
+
+  "mydb2": {
+  "name": "mydb",
+  "connector": "",
+  "username": "username",
+  "password": "password",
+  "database": "database",
+  "hostname": "hostname",
+  "port":     "portnumber"
+}
 }
